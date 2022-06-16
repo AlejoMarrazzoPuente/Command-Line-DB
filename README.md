@@ -24,4 +24,4 @@ is the full command. This will add a contact to the db, but
 if instead you want to see the full list, then you just have 
 to write:
 
-node mongo.js <password>
+node mongo.js \<password\>
