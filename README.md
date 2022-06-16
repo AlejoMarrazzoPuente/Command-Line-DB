@@ -18,7 +18,7 @@ As you see, we only can have two interactions:
 ___
 #### To consider: 
 
- node mongo.js <password> <contact name> <contact number>
+ node mongo.js \<password\> \<contact name\> \<contact number\>
 
 is the full command. This will add a contact to the db, but 
 if instead you want to see the full list, then you just have 
